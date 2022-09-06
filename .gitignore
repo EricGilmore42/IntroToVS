@@ -1,1 +1,4 @@
 .venv/
+.gitignore
+.add_name.py
+.print_customers.py
